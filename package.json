@@ -9,10 +9,10 @@
     "start": "waku start"
   },
   "dependencies": {
-    "react": "19.0.0-beta-e7d213dfb0-20240507",
-    "react-dom": "19.0.0-beta-e7d213dfb0-20240507",
-    "react-server-dom-webpack": "19.0.0-beta-e7d213dfb0-20240507",
-    "waku": "0.20.2"
+    "react": "19.0.0-rc-9d4fba0788-20240530",
+    "react-dom": "19.0.0-rc-9d4fba0788-20240530",
+    "react-server-dom-webpack": "19.0.0-rc-9d4fba0788-20240530",
+    "waku": "0.21.0-alpha.1"
   },
   "devDependencies": {
     "@types/react": "18.3.1",
