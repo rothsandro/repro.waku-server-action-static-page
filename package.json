@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "waku dev",
     "build": "waku build",
-    "start": "waku start"
+    "start": "waku start",
+    "preview": "waku build && waku start"
   },
   "dependencies": {
     "react": "19.0.0-rc-9d4fba0788-20240530",
